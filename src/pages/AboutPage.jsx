@@ -240,16 +240,16 @@ function AboutPage() {
         initial="hidden"
         whileInView="visible"
         viewport={{ once: true, amount: 0.2}}
-        className='md: w-1/2 grid grid-cols-2 gap-5 md:gap-6 pt-6 md:pt-0'
+        className='md:w-1/2 flex flex-wrap justify-center gap-4 pt-6 md:pt-0'
         >
             {experienceHighlights.map((item, index) => (
                 <motion.div
                     key={item.name}
                     variants={itemVariants} 
-                    className="bg-slate-800 p-5 rounded-xl shadow-lg flex items-center space-x-4 border border-slate-700/70 hover:border-sky-500/50 transition-colors duration-300"
+                    className="w-full sm:w-[calc(50%-0.5rem)] bg-slate-800 p-5 rounded-xl shadow-lg flex items-center space-x-4 border border-slate-700/70 hover:border-sky-500/50 transition-colors duration-300"
                 >
                     {item.icon}
-                    <span className="text-slate-200 font-semibold text-lg">{item.name}</span>
+                    <span className="text-slate-200 font-semibold text-base sm:text-lg">{item.name}</span>
                 </motion.div>
             ))}
         </motion.div>
