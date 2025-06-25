@@ -329,16 +329,16 @@ function HomePage() {
             </motion.p>
 
             <motion.div variants={fadeIn} className="flex flex-wrap gap-4">
-              <a
-                href='/resume/Arfan_Razlan_Resume.pdf'
-                download="Arfan_Razlan_Resume.pdf"
+              {/* <a
+                href="/resume/ArfanResume.pdf"
+                download="ArfanResume.pdf"
                 className={"inline-block bg-sky-500 hover:bg-sky-600 text-white font-bold py-3 px-6 rounded-lg " +
                   "transition duration-200 shadow-md hover:shadow-lg transform hover:scale-105 " +
                   "focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-opacity-50"
                 }
               >
                 Download My Resume
-              </a>
+              </a> } disable for now */}
               <Link
                 to="/about"
                 className="bg-slate-600/50 hover:bg-slate-500/50 text-slate-100 font-bold py-3 px-6 rounded-lg transition duration-200 shadow-md hover:shadow-lg backdrop-blur-sm"
