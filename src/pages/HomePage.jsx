@@ -330,7 +330,7 @@ function HomePage() {
 
             <motion.div variants={fadeIn} className="flex flex-wrap gap-4">
               <a
-                href='resume/Arfan_Razlan_Resume.pdf'
+                href='/resume/Arfan_Razlan_Resume.pdf'
                 download="Arfan_Razlan_Resume.pdf"
                 className={"inline-block bg-sky-500 hover:bg-sky-600 text-white font-bold py-3 px-6 rounded-lg " +
                   "transition duration-200 shadow-md hover:shadow-lg transform hover:scale-105 " +
