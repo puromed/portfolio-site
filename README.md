@@ -1,12 +1,70 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website built with React and Vite. This project showcases my journey in learning React while creating a professional platform for my internship applications.
 
-Currently, two official plugins are available:
+##  Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Visit the live site: [arfan-dev-portfolio.surge.sh](https://arfan-dev-portfolio.surge.sh)
 
-## Expanding the ESLint configuration
+## Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - Frontend library
+- **Vite** - Build tool and development environment
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Animation library
+- **React Router** - Navigation and routing
+- **Surge** - Deployment platform
+
+##  Features
+
+- Responsive design that works on all devices
+- Smooth animations and transitions
+- Dynamic project showcase
+- Skills and technology visualization
+- Interactive components
+- Dark theme optimized for readability
+
+##  Purpose
+
+This portfolio site serves two main purposes:
+1. A practical learning project to develop my React skills
+2. A professional showcase of my work for potential internship opportunities
+
+##  Development
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone [your-repo-url]
+
+# Navigate to project directory
+cd portfolio-site
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+##  Learning Outcomes
+
+Through this project, I've gained experience with:
+- Modern React development practices
+- Component-based architecture
+- State management
+- Responsive design principles
+- Animation implementation
+- Deployment workflows
+
+##  License
+
+This project is open source and available under the MIT License.
+
+##  Contact
+
+Mohammad Arfan Haziq Bin Razlan
+- LinkedIn: [Your LinkedIn]
+- GitHub: [Your GitHub]
+- Email: [Your Email]
