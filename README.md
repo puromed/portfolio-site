@@ -65,6 +65,5 @@ This project is open source and available under the MIT License.
 ##  Contact
 
 Mohammad Arfan Haziq Bin Razlan
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: [Your Email]
+- LinkedIn:[Mohammad Arfan Haziq Bin Razlan](www.linkedin.com/in/mohammad-arfan-haziq-bin-razlan-0180482b5) 
+- Email: arfanhaziq33@gmail.com
